@@ -1,4 +1,4 @@
-<h1 align="center">🗿 PARADISE MUSIC 🗿</h1>
+<h1 align="center">𖣐 PARADISE MUSIC 𖣐</h1>
 
 
 ![Paradise Music Logo](https://telegra.ph/file/57d3ce76e8d95472c4ea4.jpg)
