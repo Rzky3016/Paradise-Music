@@ -1,8 +1,9 @@
 {
-  "name": "Music Man",
+  "name": "Paradise Music",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "logo": "https://telegra.ph/file/57d3ce76e8d95472c4ea4.jpg",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/mrismanaziz/Music-Man",
+  "repository": "https://github.com/Rzky3016/Paradise-Music",
   "stack": "container",
   "buildpacks": [
    {
@@ -35,12 +36,12 @@
     "UPDATES_CHANNEL": {
       "description": "Updates Channel tanpa @ [skip ini jika Anda tidak punya]",
       "required": false,
-      "value": "Lunatic0de"
+      "value": "paradisesupportch"
     }, 
     "PROJECT_NAME": {
       "description": "Nama proyek MusicPlayer Anda.",
       "required": false,
-      "value": "Music-Man"
+      "value": "Paradise Music"
     },
     "ASSISTANT_NAME": {
       "description": "Username Telegram asisten MusicPlayer Anda tanpa @.",
@@ -57,14 +58,14 @@
     "BG_IMAGE": {
       "description": "Custom Background Play Musik Gunakan Foto yang Transparant format .png / .jpg",
       "required": false,
-      "value": "https://telegra.ph/file/cd0b87484429704c7b935.png"
+      "value": "https://telegra.ph/file/57d3ce76e8d95472c4ea4.jpg"
     },        
     "API_ID": {
-      "description": "Masukan APP ID Silahkan Ambil dari my.telegram.org/apps atau t.me/scrapmanbot",
+      "description": "Masukan APP ID Silahkan Ambil dari my.telegram.org/apps atau t.me/Getyourapi_bot",
       "required": true
     },   
     "API_HASH": {
-      "description": "Masukan API HASH Silahkan Ambil dari my.telegram.org/apps atau t.me/scrapmanbot",
+      "description": "Masukan API HASH Silahkan Ambil dari my.telegram.org/apps atau t.me/Getyourapi_bot",
       "required": true
     },
     "PMPERMIT": {
