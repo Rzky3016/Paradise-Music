@@ -70,14 +70,14 @@ Music-Man is a modified version of [Callsmusic](https://github.com/callsmusic/ca
 
 #### Contribtors
 - [Risman](https://github.com/mrismanaziz)
-- [InukaASiTH](https://github.com/InukaAsith): Dev
-- [Rojserbest](http://github.com/rojserbes): Dev
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [QueenArzoo](https://github.com/QueenArzoo): Dev
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev
+- [InukaASiTH](https://github.com/InukaAsith)
+- [Rojserbest](http://github.com/rojserbes)
+- [Wrench](https://github.com/EverythingSuckz/)
+- [QueenArzoo](https://github.com/QueenArzoo)
+- [lucifeermorningstar](https://github.com/lucifeermorningstar)
 - [AuraXNetwork](https://github.com/AuraXNetwork/AuraXMusicBot)
 - [Hamker Cat](https://github.com/thehamkercat/)
-- [Anjana-Ma](https://github.com/Anjana-Ma): 
-- [ImJanindu](https://github.com/ImJanindu): 
+- [Anjana-Ma](https://github.com/Anjana-Ma)
+- [ImJanindu](https://github.com/ImJanindu)
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo owners](https://github.com/suprojects/CallsMusic)
