@@ -65,8 +65,8 @@ Don't edit this part
 #### Special Credits
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
 
-This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork Music Man won't exist. 
-Music-Man is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic)
+This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork Paradise Music won't exist. 
+Paradise Music is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic)
 
 #### Contribtors
 - [Risman](https://github.com/mrismanaziz)
