@@ -1,7 +1,7 @@
 <h1 align="center">🗿 PARADISE MUSIC 🗿</h1>
 
 
-![Paradise Music Logo](https://telegra.ph/file/b2eed40dc39e7d3c63397.jpg)
+![Paradise Music Logo](https://telegra.ph/file/57d3ce76e8d95472c4ea4.jpg)
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
