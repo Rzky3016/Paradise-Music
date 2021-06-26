@@ -539,7 +539,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton("📖 Daftar Putar", callback_data="playlist"),
-                    InlineKeyboardButton("⛑ Channel", url="https://t.me/Lunatic0de"),
+                    InlineKeyboardButton("⛑ Channel", url="https://t.me/paradisesupportch"),
                 ],
                 [InlineKeyboardButton(text="🗑 Close", callback_data="cls")],
             ]
