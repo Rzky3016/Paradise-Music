@@ -63,7 +63,7 @@ def cb_admin_check(func: Callable) -> Callable:
         if cb.from_user.id in admemes:
             return await func(client, cb)
         else:
-            await cb.answer("Kamu tidak ada izin, Pergi Lu Jauh Jauh!", show_alert=True)
+            await cb.answer("Kamu tidak diizinkan!", show_alert=True)
             return
 
     return decorator
@@ -210,7 +210,7 @@ async def ee(client, message):
     if stats:
         await message.reply(stats)
     else:
-        await message.reply("**Nyalain dulu VCG nya Goblok!**")
+        await message.reply("**Nyalain dulu VCG nya Bos!**")
 
 
 @Client.on_message(filters.command("player") & filters.group & ~filters.edited)
@@ -232,7 +232,7 @@ async def settings(client, message):
         else:
             await message.reply(stats, reply_markup=r_ply("play"))
     else:
-        await message.reply("**Nyalain dulu VCG nya Nyed!**")
+        await message.reply("**Nyalain dulu VCG nya!**")
 
 
 @Client.on_message(
@@ -999,7 +999,7 @@ async def lol_cb(b, cb):
         return
     useer_id = int(useer_id)
     if cb.from_user.id != useer_id:
-        await cb.answer("Lu Siapa Njg? Anda bukan orang yang meminta untuk memutar lagu!", show_alert=True)
+        await cb.answer("Anda bukan orang yang meminta untuk memutar lagu!", show_alert=True)
         return
     await cb.message.edit("🔄 **Sedang Memproses Lagu**")
     x=int(x)
